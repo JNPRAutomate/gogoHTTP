@@ -20,5 +20,5 @@ Download the release correct for your platform (darwin is Mac OS X):
 
 Two command options:
 ```
-./gogoHTTP -d <Directory to serve (default: .) -p <Port to listen on (default: 8080)
+./gogoHTTP -d <Directory to serve (default: /.) -p <Port to listen on (default: 8080)
 ```
