@@ -14,11 +14,11 @@ Download the release correct for your platform (darwin is Mac OS X):
   gogoHTTP-linux-386
   gogoHTTP-linux-amd64
   gogoHTTP-linux-arm
-  gogoHTTP-windows-386
-  gogoHTTP-windows-amd64
+  gogoHTTP-windows-386.exe
+  gogoHTTP-windows-amd64.exe
 ```
 
 Two command options:
 ```
-./gogoHTTP -d <Directory to serve (default: /.) -p <Port to listen on (default: 8080)
+./gogoHTTP -d <Directory to serve (default: /.)> -p <Port to listen on (default: 8080)>
 ```
